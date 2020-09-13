@@ -11,6 +11,8 @@ source "drivers/connector/Kconfig"
 
 source "drivers/mtd/Kconfig"
 
+source "drivers/rtl8188eus/Kconfig"
+
 source "drivers/of/Kconfig"
 
 source "drivers/parport/Kconfig"
